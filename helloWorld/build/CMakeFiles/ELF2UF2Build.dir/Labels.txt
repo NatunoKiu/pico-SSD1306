@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/mnt/w/workingPico/helloWorld/build/CMakeFiles/ELF2UF2Build
+/mnt/w/workingPico/helloWorld/build/CMakeFiles/ELF2UF2Build.rule
+/mnt/w/workingPico/helloWorld/build/CMakeFiles/ELF2UF2Build-complete.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/mnt/w/workingPico/helloWorld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule

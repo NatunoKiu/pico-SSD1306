@@ -1,0 +1,59 @@
+The system is: Linux - 5.4.72-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_17b4d/fast && make[3]: Entering directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_17b4d.dir/build.make CMakeFiles/cmTC_17b4d.dir/build
+make[4]: Entering directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_17b4d.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_17b4d.dir/testCCompiler.c.o   -c /mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_17b4d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17b4d.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_17b4d.dir/testCCompiler.c.o  -o cmTC_17b4d 
+make[4]: Leaving directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_aac01/fast && make[3]: Entering directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_aac01.dir/build.make CMakeFiles/cmTC_aac01.dir/build
+make[4]: Entering directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_aac01.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_aac01.dir/testCXXCompiler.cxx.o -c /mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_aac01
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aac01.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_aac01.dir/testCXXCompiler.cxx.o  -o cmTC_aac01 
+make[4]: Leaving directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/mnt/w/workingPico/helloWorld/build/elf2uf2/CMakeFiles/CMakeTmp'
+
+
+
